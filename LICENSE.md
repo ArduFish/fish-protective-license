@@ -1,4 +1,4 @@
-### © ArduFish123 (ARaspberry523) 2024-2024
+### © <license owner> <year>
 
 ### FISH PROTECTIVE LICENSE 1.0
 
