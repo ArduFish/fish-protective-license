@@ -1,4 +1,4 @@
-### © <license owner> <year>
+### © < license owner > < year >
 
 ### FISH PROTECTIVE LICENSE 1.0
 
